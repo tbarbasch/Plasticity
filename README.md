@@ -16,21 +16,37 @@ During the 12-month experiment, the 20 pairs laid between zero and three clutche
 
 ### Description of Variables
 Rack: Rack A,B,C, or D where the tank was located
-Row: Row 1, 2, or 3 where the tank was located within each rack
-Column: Column 1,2,3,4, or 5 where the tank was located within each rack
-Pair ID: Individual identifier for each breeding pair, consisting of rack/row/column
-Date: Calendar date of measurement
-month.clutch: The clutch number laid that month, whether the first, second, or third clutch laid by that pair each lunar month
-month: Experimental month from 1-12 lunar months
-clutch.age: Age of the clutch when measurements taken, day 1,4, or 7 of development. Clutches were laid on day 0 and hatched on the night of day 7
-clutch.ID: Individual identifier for each clutch that was laid throughout the study period
-M.A: Whether the measurements were taken in the morning or afternoon. During this experiment, all videos were taken in the afternoon
-Fed1.0: Feeding treatment when the measurement was taken. Treatment was mean centered, such that -0.5 denotes low ration, 0.5 denotes high ration
-M.mouth: Number of mouthing events observed during the video
-M.fan: Number of fanning events observed during the video
-M.bite: Number of times a bite was observed
-M.chase: Number of times a chase was observed
-M.tend: Amount of time the individual was observed tending in minutes during the video
-M.prop.tend: Proportion of time out of 15 mins the individual was observed tending
-M.F: Sex of the individual, M = Male, F = Female
 
+Row: Row 1, 2, or 3 where the tank was located within each rack
+
+Column: Column 1,2,3,4, or 5 where the tank was located within each rack
+
+Pair ID: Individual identifier for each breeding pair, consisting of rack/row/column
+
+Date: Calendar date of observation
+
+month.clutch: The clutch number laid that month, whether the first, second, or third clutch laid by that pair each lunar month
+
+month: Experimental month from 1-12 lunar months
+
+clutch.age: Age of the clutch when measurements taken, day 1,4, or 7 of development. Clutches were laid on day 0 and hatched on the night of day 7
+
+clutch.ID: Individual identifier for each clutch that was laid throughout the study period
+
+M.A: Whether the observation was taken in the morning or afternoon. During this experiment, all observations were done in the afternoon
+
+Fed1.0: Feeding treatment when the observation was taken. Treatment was mean centered, such that -0.5 denotes low ration, 0.5 denotes high ration
+
+M.mouth: Number of mouthing events observed
+
+M.fan: Number of fanning events observed
+
+M.bite: Number of times a bite was observed
+
+M.chase: Number of times a chase was observed
+
+M.tend: Amount of time the individual was observed tending in minutes
+
+M.prop.tend: Proportion of time out of 15 mins the individual was observed tending
+
+M.F: Sex of the individual, M = Male, F = Female
