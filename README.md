@@ -49,4 +49,4 @@ M.tend: Amount of time the individual was observed tending in minutes
 
 M.prop.tend: Proportion of time out of 15 mins the individual was observed tending
 
-M.F: Sex of the individual, M = Male, F = Female
+M.F: Sex of the individual, 0 = Male, 1 = Female
